@@ -1,7 +1,7 @@
 LED-Sockel
 ----
 *(Seeed Studio Grove – White LED)*
-
+Test Paul
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/64_led-sockel-1024x1024.jpg width=400px>
 
 LEDs (Leuchtdioden) dienen zur Beleuchtung aber auch zur Darstellung eines Zustandes. Viele Geräte sind mit LEDs ausgestattet. Diese zeigen dabei ausschließlich an, ob das Gerät eingeschaltet ist oder beispielsweise ein Fehler vorliegt. Bei Elektronik-Projekten kommen LEDs meistens zum Einsatz, um die Funktion von Sensoren zu testen. LEDs lassen sich auch direkt (mit zwischengeschaltetem Widerstand) an einen Mikrocontroller über einen digitalen Pin anschließen.
